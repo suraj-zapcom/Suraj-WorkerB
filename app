@@ -1,1 +1,3 @@
-hi suraj
+def func():
+    print("123")
+    pass
