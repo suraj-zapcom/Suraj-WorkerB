@@ -1,3 +1,4 @@
 def func():
-  print("123')
-  pass
+  f1():
+    pass
+    continue
