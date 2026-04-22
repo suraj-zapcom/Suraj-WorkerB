@@ -1,3 +1,3 @@
 def func():
-    print("123")
+    print("hello")
     pass
