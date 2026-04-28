@@ -1,3 +1,1 @@
-def func():
-    print("hello")
-    pass
+hello world
