@@ -1,4 +1,4 @@
-def func():
+def function():
   f1():
     pass
   if i==1:
