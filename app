@@ -1,5 +1,5 @@
 def function():
-  f1():
+  f2():
     pass
   if i==1:
     continue
