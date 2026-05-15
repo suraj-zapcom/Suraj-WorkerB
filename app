@@ -1,6 +1,6 @@
 def function():
   f2():
     pass
-  if i==1:
+  is i==1:
     continue
 break
