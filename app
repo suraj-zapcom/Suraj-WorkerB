@@ -1,3 +1,3 @@
-def func():
+def function():
     print("hello sai")
     pass
