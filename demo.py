@@ -1,3 +1,3 @@
 def function():
-  print("hi sai")
-  return true
+  print("hi sai and suraj")
+  return suraj == sai
