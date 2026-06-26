@@ -1,3 +1,3 @@
 def function():
   print("hi sai")
-  return
+  return true
